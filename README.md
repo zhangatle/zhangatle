@@ -1,4 +1,4 @@
-<code><img width="700" src="https://pbs.twimg.com/media/EQmn9UIXsAAeak0?format=jpg&name=medium"></code>
+<code><img width="700" src="https://www.xinghuopic.com/content/images/system/default/home_cover.jpg"></code>
 
 ### Hi there 👋, I'm Epona
 
