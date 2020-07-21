@@ -26,13 +26,7 @@ I'm currently working on a Wudi360.
 
 ### WakaTime Stats
 
-<!--START_SECTION:waka-->
-```text
-Week: 13 July, 2020 - 20 July, 2020
-
-PHP         11 hrs 41 mins      ███████████████░░░░░░░░░░   59.90 % 
-```
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@1e035f6c-b973-4d36-9fc3-ee02d4318897/bdea51ac-50a3-46d8-adf5-93804253badf.svg"></embed></figure>
 
 <!--
 **zhangatle/zhangatle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
