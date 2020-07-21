@@ -22,7 +22,7 @@ I'm currently working on a Wudi360.
 
 ### Github Stats
 
-![Epona's github stats](https://github-readme-stats.vercel.app/api?username=SimuraEpona&show_icons=true)
+![Epona's github stats](https://github-readme-stats.vercel.app/api?username=zhangatle&show_icons=true)
 
 ### WakaTime Stats
 
