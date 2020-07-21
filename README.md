@@ -4,7 +4,7 @@
 - working at [**wudi360**](https://wudiads.com)
 
 ### WakaTime Stats
-<script type="text/javascript" src="https://gist.github.com/zhangatle/a43a7b437a303a72aded8e0c9489237c.js"></script>
+<script src="https://gist.github.com/zhangatle/a43a7b437a303a72aded8e0c9489237c.js"></script>
 <img src="https://wakatime.com/share/@1e035f6c-b973-4d36-9fc3-ee02d4318897/5ce2d393-c268-42bc-bf95-d79145e43ea8.png" />
 
 ### Some basic info
