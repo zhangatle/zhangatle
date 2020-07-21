@@ -2,26 +2,23 @@
 
 ### Hi there 👋, I'm Epona
 
-- living in **Tokyo**
-- working at [**Poper**](https://poper.co)
-- big fan of [**Nintendo**](https://www.nintendo.co.jp)
+- living in **chengdu**
+- working at [**wudi360**](https://wudiads.com)
 
 ### Some basic info
 
 ```elixir
 	
 	Epona
-	|> email("epona@hey.com")
-	|> blog("https://blog.epona.me")
-	|> skill(["PHP", "Laravel", "JavaScript", "Vue", "Redis", "Nginx", "Docker"])
-	|> learnging(["Elixir", "Phoenix", "Product"])
+	|> email("zhangatle@gmail.com")
+	|> skill(["PHP", "Laravel", "Vue", "Redis", "Nginx", "Docker"])
 	|> tools(["PHPStorm", "VS Code", "NeoVim", "Tmux", "TablePlus"])
 	
 ```
 
 ### Working on
 
-I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lang.org) and [**Phoenix**](https://www.phoenixframework.org).
+I'm currently working on a Wudi360.
 
 ### Github Stats
 
@@ -34,10 +31,6 @@ I'm currently working on a TRPG Dice Game. using [**Elixir**](https://elixir-lan
 Week: 13 July, 2020 - 20 July, 2020
 
 PHP         11 hrs 41 mins      ███████████████░░░░░░░░░░   59.90 % 
-Blade Template7 hrs 2 mins      █████████░░░░░░░░░░░░░░░░   36.09 % 
-Other       26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-HTML        20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-JSON        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 <!--END_SECTION:waka-->
 
