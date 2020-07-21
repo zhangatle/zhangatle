@@ -25,7 +25,7 @@ I'm currently working on a Wudi360.
 ![Epona's github stats](https://github-readme-stats.vercel.app/api?username=zhangatle&show_icons=true)
 
 ### WakaTime Stats
-
+![Epona's github stats](https://wakatime.com/share/@1e035f6c-b973-4d36-9fc3-ee02d4318897/bdea51ac-50a3-46d8-adf5-93804253badf.svg)
 <figure><embed src="https://wakatime.com/share/@1e035f6c-b973-4d36-9fc3-ee02d4318897/bdea51ac-50a3-46d8-adf5-93804253badf.svg"></embed></figure>
 
 <!--
