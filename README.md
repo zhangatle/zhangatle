@@ -4,7 +4,7 @@
 - working at [**wudi360**](https://wudiads.com)
 
 ### WakaTime Stats
-<img src="https://wakatime.com/share/@1e035f6c-b973-4d36-9fc3-ee02d4318897/bdea51ac-50a3-46d8-adf5-93804253badf.svg" width=60%>
+<img src="https://wakatime.com/share/@1e035f6c-b973-4d36-9fc3-ee02d4318897/5ce2d393-c268-42bc-bf95-d79145e43ea8.png" />
 
 ### Some basic info
 
