@@ -1,4 +1,5 @@
-<code><img width="700" src="https://www.xinghuopic.com/content/images/system/default/home_cover.jpg"></code>
+### WakaTime Stats
+![zhangatle's wakatime stats](https://wakatime.com/share/@1e035f6c-b973-4d36-9fc3-ee02d4318897/bdea51ac-50a3-46d8-adf5-93804253badf.svg)
 
 ### Hi there 👋, I'm Epona
 
@@ -23,10 +24,6 @@ I'm currently working on a Wudi360.
 ### Github Stats
 
 ![Epona's github stats](https://github-readme-stats.vercel.app/api?username=zhangatle&show_icons=true)
-
-### WakaTime Stats
-![Epona's github stats](https://wakatime.com/share/@1e035f6c-b973-4d36-9fc3-ee02d4318897/bdea51ac-50a3-46d8-adf5-93804253badf.svg)
-<figure><embed src="https://wakatime.com/share/@1e035f6c-b973-4d36-9fc3-ee02d4318897/bdea51ac-50a3-46d8-adf5-93804253badf.svg"></embed></figure>
 
 <!--
 **zhangatle/zhangatle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
