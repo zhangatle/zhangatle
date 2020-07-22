@@ -5,7 +5,7 @@
 
 ### WakaTime Stats
 
-<img src="https://wakatime.com/share/@1e035f6c-b973-4d36-9fc3-ee02d4318897/5ce2d393-c268-42bc-bf95-d79145e43ea8.png" />
+<img src="https://wakatime.com/share/@1e035f6c-b973-4d36-9fc3-ee02d4318897/5ce2d393-c268-42bc-bf95-d79145e43ea8.png" width="50%" height="300" />
 
 ### Some basic info
 
