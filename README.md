@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm zhangatle
 
-- living in **chengdu**
+- living in **ChengDu**
 - working at [**wudi360**](https://wudiads.com)
 
 ### WakaTime Stats
@@ -21,7 +21,7 @@ JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░
 	Epona
 	|> email("zhangatle@gmail.com")
 	|> skill(["PHP", "Laravel", "Vue", "Redis", "Nginx", "Docker"])
-	|> tools(["PHPStorm", "VS Code", "NeoVim", "Tmux", "TablePlus"])
+	|> tools(["PHPStorm", "VS Code", "Navicat","Goland","RDM"])
 	
 ```
 
