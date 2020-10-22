@@ -4,7 +4,8 @@
 - working at [**wudi360**](https://wudiads.com)
 
 ### WakaTime Stats
-<gist>https://gist.github.com/zhangatle/3926686fdfdfba3f4d5e675bddc5e159.js</gist>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Some basic info
 
