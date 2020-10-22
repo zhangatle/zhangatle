@@ -5,6 +5,13 @@
 
 ### WakaTime Stats
 <!--START_SECTION:waka-->
+```text
+PHP          10 hrs 14 mins  ██████████████████████▓░░   90.30 % 
+Other        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+CSS          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+```
 <!--END_SECTION:waka-->
 
 ### Some basic info
