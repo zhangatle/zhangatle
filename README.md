@@ -4,8 +4,7 @@
 - working at [**wudi360**](https://wudiads.com)
 
 ### WakaTime Stats
- <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+![zhangatle's github stats](https://gist.github.com/zhangatle/3926686fdfdfba3f4d5e675bddc5e159)
 
 ### Some basic info
 
@@ -24,7 +23,7 @@ I'm currently working on a Wudi360.
 
 ### Github Stats
 
-![Epona's github stats](https://github-readme-stats.vercel.app/api?username=zhangatle&show_icons=true)
+![zhangatle's github stats](https://github-readme-stats.vercel.app/api?username=zhangatle&show_icons=true)
 
 <!--
 **zhangatle/zhangatle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
