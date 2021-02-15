@@ -6,11 +6,7 @@
 ### WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-PHP          10 mins         ███████████▒░░░░░░░░░░░░░   45.53 % 
-YAML         4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.37 % 
-JavaScript   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Other        2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+JavaScript   3 mins          █████████████████████████   99.93 % 
 ```
 <!--END_SECTION:waka-->
 
