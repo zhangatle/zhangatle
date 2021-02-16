@@ -6,7 +6,8 @@
 ### WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 mins          █████████████████████████   99.93 % 
+JavaScript   23 mins         ███████████████▒░░░░░░░░░   61.54 % 
+YAML         14 mins         █████████▓░░░░░░░░░░░░░░░   38.34 % 
 ```
 <!--END_SECTION:waka-->
 
