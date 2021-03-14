@@ -6,11 +6,11 @@
 ### WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   24 hrs 46 mins  ████████████████▓░░░░░░░░   66.40 % 
-PHP          5 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-JSON         5 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Other        42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Git Config   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+JavaScript   24 hrs 56 mins  ████████████████▒░░░░░░░░   65.07 % 
+PHP          5 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+JSON         5 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Other        42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Git Config   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 <!--END_SECTION:waka-->
 
