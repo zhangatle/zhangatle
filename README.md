@@ -6,7 +6,7 @@
 ### WakaTime Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   41 mins         ████████████████████████▓   98.14 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
