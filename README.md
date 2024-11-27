@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm zhangatle
 
-- living in **ChengDu**
-- working at [**wudi360**](https://wudiads.com)
+- living in **HK**
+- working at [**LuckyStudio**]
 
 ### WakaTime Stats
 <!--START_SECTION:waka-->
