@@ -25,10 +25,6 @@ No Activity tracked this Week
 
 I'm currently working on a Wudi360.
 
-### Github Stats
-
-![zhangatle's github stats](https://github-readme-stats.vercel.app/api?username=zhangatle&show_icons=true)
-
 <!--
 **zhangatle/zhangatle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
